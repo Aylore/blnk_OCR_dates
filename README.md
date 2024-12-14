@@ -11,3 +11,7 @@ We’d like you to tackle the problem of extracting dates from images.
 *    change directory into the project
 *   `docker-compose up --build`  -- may need to use sudo
 *    open [local host](http://0.0.0.0:8000/)
+
+
+# Showcase
+![hj](<./showcase.gif>)
